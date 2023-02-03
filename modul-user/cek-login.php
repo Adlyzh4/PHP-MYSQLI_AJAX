@@ -20,6 +20,7 @@ if ($num_row >= 1) {
     $_SESSION['id_user']       = $row['id_user'];
     $_SESSION['nama_lengkap'] = $row['nama_lengkap'];
     $_SESSION['username']       = $row['username'];
+    $_SESSION['level'] = $row['level'];
 } else {
 
     echo "error";

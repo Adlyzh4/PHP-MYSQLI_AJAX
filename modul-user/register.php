@@ -40,7 +40,7 @@
                 </div>
 
                 <div class="text-center" style="margin-top: 15px">
-                    Sudah punya akun? <a href="login.php">Silahkan Login</a>
+                    Sudah punya akun? <a href="index.php">Silahkan Login</a>
                 </div>
 
             </div>

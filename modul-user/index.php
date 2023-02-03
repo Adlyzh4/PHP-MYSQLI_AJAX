@@ -95,7 +95,7 @@
                                         showConfirmButton: false
                                     })
                                     .then(function() {
-                                        window.location.href = "dashboard.php";
+                                        window.location.href = "../modul-siswa/dashboard.php";
                                     });
 
                             } else {
